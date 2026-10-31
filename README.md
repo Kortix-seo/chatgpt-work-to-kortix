@@ -59,7 +59,7 @@ cd my-project && kortix validate
 
 The control-by-control comparison, with OpenAI's own sentences behind each row, is at [kortix.com/blog/chatgpt-work-for-enterprise](https://kortix.com/blog/chatgpt-work-for-enterprise). The narrower question — what a fully self-hosted deployment looks like — is at [chatgptworkalternative.com](https://chatgptworkalternative.com).
 
-Kortix is the open-source AI Operating System: agents, skills, company memory and connectors in one git repository you own, with every agent working on its own cloud computer. Free to start, free to self-host.
+Kortix is the open-source CompanyOS: agents, skills, company memory and connectors in one git repository you own, with every agent working on its own cloud computer. Free to start, free to self-host.
 
 ## Licence
 
